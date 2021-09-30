@@ -1,0 +1,16 @@
+{
+  "name": "puregym",
+  "version": "1.0.0",
+  "description": "Class to extract users recent gym activity from Pure Gym website",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Neil Gary Allen",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^4.1.5",
+    "query-string": "^7.0.1",
+    "superagent": "^6.1.0"
+  }
+}
